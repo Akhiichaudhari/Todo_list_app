@@ -1,0 +1,5 @@
+This is java based project on todolist app.
+IDE : android studio
+You can simply run this code in android studio.
+This app is used to keep track of task and can add new task, mark as complete or delete task. 
+Added task are displayed in listview type.
